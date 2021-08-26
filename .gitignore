@@ -22,3 +22,10 @@ config.env
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# vs code
+*.code-workspace
+testing.*
+
+# api testing
+api-testing
